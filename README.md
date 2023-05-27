@@ -13,7 +13,11 @@ Verilen örnek kod, GÖRSEL TANIMA/TESPİT ETME alanında bir resim benzerlik an
 
 Kodun Karmaşıklığı:
 Verilen örnek kodun karmaşıklığı genellikle resim sayısına bağlıdır. Karmaşıklık analizi aşağıdaki gibi özetlenebilir:
+
 •	Dönüşümler ve özellik çıkarımı, resim sayısına lineer olarak bağlıdır (O(N)).
+
 •	Benzerlik hesaplama ve benzerlik matrisinin oluşturulması, resim sayısının karesine bağlıdır (O(N^2)).
+
 •	Benzerlik filtrelemesi, resim çifti sayısına lineer olarak bağlıdır (O(N)).
+
 Sonuç olarak, verilen örnek kodun karmaşıklığı N^2'ye (O(N^2)) yaklaşık olarak hesaplanabilir, burada N resim sayısını temsil eder. Benzerlik matrisinin oluşturulması ve benzerlik filtreleme adımları karmaşıklık açısından en baskın faktörlerdir.
