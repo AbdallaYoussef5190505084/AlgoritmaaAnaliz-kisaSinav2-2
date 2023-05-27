@@ -1,4 +1,4 @@
-# AlgoritmaAnaliz2 kısasınav.2 kısım
+# AlgoritmaAnaliz 2.kısasınav.2 kısım
 sıkıştırılmış klasördeki tüm dosyalar mevcut
 
 
